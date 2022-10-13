@@ -1,0 +1,9 @@
+{
+  "react-native": {
+    "ml_vision_face_model": true,
+    "ml_vision_ocr_model": true,
+    "ml_vision_barcode_model": true,
+    "ml_vision_label_model": true,
+    "ml_vision_image_label_model": true
+  }
+}

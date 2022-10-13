@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>605681006081-hvn7ef9948ssml9gca98od3vn3on1nn3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.605681006081-hvn7ef9948ssml9gca98od3vn3on1nn3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvS6K-cFe5VtsGIhH-xIt4Ep7GzCRDTlo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605681006081</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arch.masjidSuba</string>
+	<key>PROJECT_ID</key>
+	<string>masjid-speaker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>masjid-speaker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605681006081:ios:0a91808a441450b58f3200</string>
+	<key>DATABASE_URL</key>
+	<string>https://masjid-speaker.firebaseio.com</string>
+</dict>
+</plist>
